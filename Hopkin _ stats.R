@@ -1,0 +1,1 @@
+# Utilisation d'une palette de couleurs
